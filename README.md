@@ -241,3 +241,31 @@ Forecasting and operational risk monitoring dashboard.
 - Performance Optimization
 
 ---
+
+# 🔒 Dataset Disclaimer
+
+The original dataset used in this project is not included in this repository due to Codebasics project guidelines and data-sharing restrictions.
+
+This repository is intended to showcase:
+- Dashboard design
+- Data modeling
+- DAX calculations
+- Business analysis
+- Visualization and storytelling skills
+
+Only screenshots, documentation, and project explanations are shared publicly.
+
+---
+
+# 👨‍💻 Author
+
+## Yahya Sleiman
+
+Data Analyst | Power BI Developer | Business Intelligence Enthusiast
+
+- LinkedIn: www.linkedin.com/in/yahya-sleiman-6b742a356
+- Portfolio: [Insert Portfolio Link]
+
+Focused on building stakeholder-ready analytics solutions, interactive dashboards, and business-driven insights using Power BI, SQL, DAX, and modern BI practices.
+
+---
