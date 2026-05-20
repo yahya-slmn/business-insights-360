@@ -264,7 +264,7 @@ Only screenshots, documentation, and project explanations are shared publicly.
 Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
 - LinkedIn: www.linkedin.com/in/yahya-sleiman-6b742a356
-- Portfolio: [Insert Portfolio Link]
+<!--- Portfolio: [Insert Portfolio Link]-->
 
 Focused on building stakeholder-ready analytics solutions, interactive dashboards, and business-driven insights using Power BI, SQL, DAX, and modern BI practices.
 
